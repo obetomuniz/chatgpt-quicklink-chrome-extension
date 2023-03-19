@@ -10,7 +10,7 @@ This Chrome extension concept is pretty simple. The idea is that using this exte
 https://chat.openai.com/chat?q={Query}
 ```
 
-https://user-images.githubusercontent.com/1680157/226205401-71e9c823-8258-470f-ab7c-ef486bdb1a06.mov
+![ezgif-3-b2c5b3f300 (1)](https://user-images.githubusercontent.com/1680157/226208463-e66801e7-6bf0-4614-b54a-4b377671132b.gif)
 
 ## How to install using Chrome Web Store
 
