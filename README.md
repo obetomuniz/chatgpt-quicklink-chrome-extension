@@ -14,6 +14,8 @@ https://user-images.githubusercontent.com/1680157/226205401-71e9c823-8258-470f-a
 
 ## How to install using Chrome Web Store
 
+Chrome Web Store is reviewing it. As soon as it gets approved by them, you will be able to install it like any other Chrome extension through a Chrome Web Store link.
+
 ## How to install unpacked Chrome extension (development)
 
 1. Clone this project to your local dev environment.
