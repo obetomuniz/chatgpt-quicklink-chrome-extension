@@ -12,9 +12,9 @@ https://chat.openai.com/chat?q={Query}
 
 https://user-images.githubusercontent.com/1680157/226205401-71e9c823-8258-470f-ab7c-ef486bdb1a06.mov
 
-## How to install
+## How to install using Chrome Web Store
 
-### Unpacked Chrome extension installation (development)
+## How to install unpacked Chrome extension (development)
 
 1. Clone this project to your local dev environment.
 
