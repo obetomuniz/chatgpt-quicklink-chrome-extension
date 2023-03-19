@@ -4,7 +4,7 @@ chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
     tab?.url?.startsWith("https://chat.openai.com/chat")
   ) {
     await chrome.scripting.executeScript({
-      target: { tabId: tabId },
+      target: { tabId },
       files: ["content.js"],
     })
   }
