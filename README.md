@@ -10,6 +10,8 @@ This Chrome extension concept is pretty simple. The idea is that using this exte
 https://chat.openai.com/chat?q={Query}
 ```
 
+https://user-images.githubusercontent.com/1680157/226205401-71e9c823-8258-470f-ab7c-ef486bdb1a06.mov
+
 ## How to install
 
 ### Unpacked Chrome extension appeoach (development)
