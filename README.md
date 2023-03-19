@@ -14,19 +14,19 @@ https://user-images.githubusercontent.com/1680157/226205401-71e9c823-8258-470f-a
 
 ## How to install
 
-### Unpacked Chrome extension appeoach (development)
+### Unpacked Chrome extension installation (development)
 
-1. Clone the project to your local dev environment.
+1. Clone this project to your local dev environment.
 
-2. Open Chrome's extension settings: Click on the three-dot menu icon in the top-right corner of Chrome and select "More tools" > "Extensions."
+2. On Google Chrome's browser, let's load extensions settings page by clicking on the three-dot menu icon in the top-right corner of Chrome and select "More tools" > "Extensions."
 
-3. Enable developer mode: In the top-right corner of the extensions page, toggle on the "Developer mode" switch.
+3. Now, im the top-right corner of the extensions page, toggle on the "Developer mode" switch.
 
-4. Load the extension: Click on the "Load unpacked" button in the top-left corner of the extensions page. Select the folder where you cloned the extension in the step number #1, and click "Select."
+4. Now, in the same page, click on the "Load unpacked" button in the top-left corner, and select the folder where you cloned the extension in the step number #1
 
-5. Confirm installation: The extension should now be installed and visible in your list of extensions. If you encounter any errors, try reloading the extension or restarting Chrome. If the errors persist, please, [file a bug](https://github.com/obetomuniz/chatgpt-quicklink-chrome-extension/issues/new?assignees=&labels=bug&template=BUG_REPORT.yml&title=%5BBug%5D%3A+) or even a Pull Request :)
+5. After those steps, the extension should now be installed and visible in your list of extensions. If you encounter any errors, try reloading the extension or restarting Chrome. If the errors persist, please, [file a bug](https://github.com/obetomuniz/chatgpt-quicklink-chrome-extension/issues/new?assignees=&labels=bug&template=BUG_REPORT.yml&title=%5BBug%5D%3A+) or even a Pull Request :)
 
-To-Do:
+## To-Do:
 
 - [ ] Add demos
 - [ ] Document how to contribute
