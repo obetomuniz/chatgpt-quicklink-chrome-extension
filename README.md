@@ -2,6 +2,8 @@
 
 A Chrome extension to enable quicklink for ChatGPT on Google Chrome.
 
+<img src="https://user-images.githubusercontent.com/1680157/226208463-e66801e7-6bf0-4614-b54a-4b377671132b.gif" width="52%" />
+
 ## How to use
 
 This Chrome extension concept is pretty simple. The idea is that using this extension, Chrome users will be able to load queries on ChatGPT by OpenAI website from anywhere throught a brand new query parameter `q` that automagically fill the ChatGPT and submit that query.
@@ -9,8 +11,6 @@ This Chrome extension concept is pretty simple. The idea is that using this exte
 ```
 https://chat.openai.com/chat?q={Query}
 ```
-
-![ezgif-3-b2c5b3f300 (1)](https://user-images.githubusercontent.com/1680157/226208463-e66801e7-6bf0-4614-b54a-4b377671132b.gif)
 
 ## How to install using Chrome Web Store
 
@@ -30,5 +30,4 @@ Chrome Web Store is reviewing it. As soon as it gets approved by them, you will 
 
 ## To-Do:
 
-- [ ] Add demos
 - [ ] Document how to contribute
