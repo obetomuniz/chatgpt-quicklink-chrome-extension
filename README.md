@@ -20,11 +20,11 @@ Chrome Web Store is reviewing it. As soon as it gets approved by them, you will 
 
 1. Clone this project to your local dev environment.
 
-2. On Google Chrome's browser, let's load extensions settings page by clicking on the three-dot menu icon in the top-right corner of Chrome and select "More tools" > "Extensions."
+2. On Google Chrome's browser, load extensions settings page by clicking on the three-dot menu icon in the top-right corner of Chrome and select "More tools" > "Extensions."
 
-3. Now, im the top-right corner of the extensions page, toggle on the "Developer mode" switch.
+3. Now, in the top-right corner of the extensions page, toggle on the "Developer mode" switch.
 
-4. Now, in the same page, click on the "Load unpacked" button in the top-left corner, and select the folder where you cloned the extension in the step number #1
+4. In the same page, click on the "Load unpacked" button in the top-left corner, and select the folder where you cloned the extension in the step number #1
 
 5. After those steps, the extension should now be installed and visible in your list of extensions. If you encounter any errors, try reloading the extension or restarting Chrome. If the errors persist, please, [file a bug](https://github.com/obetomuniz/chatgpt-quicklink-chrome-extension/issues/new?assignees=&labels=bug&template=BUG_REPORT.yml&title=%5BBug%5D%3A+) or even a Pull Request :)
 
