@@ -6,7 +6,7 @@ A Chrome extension to enable quicklink for ChatGPT on Google Chrome.
 
 ## How to use
 
-This Chrome extension usge concept is pretty simple: Unleash Chrome users to launch and start chat sessions on ChatGPT by OpenAI website from anywhere throught a NOT SUPPORTED BY DEFAULT query parameter `q` that automagically fill the ChatGPT input field and start a chat session for you.
+This Chrome extension concept is pretty simple: Unleash Chrome users to launch and start chat sessions on ChatGPT by OpenAI website from anywhere throught a NOT SUPPORTED BY DEFAULT query parameter `q` that automagically fill the ChatGPT input field and start a chat session for you.
 
 ```
 https://chat.openai.com/chat?q={Query}
