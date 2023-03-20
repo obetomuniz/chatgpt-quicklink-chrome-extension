@@ -12,11 +12,11 @@ This Chrome extension concept is pretty simple: Unleash Chrome users to launch a
 https://chat.openai.com/chat?q={Query}
 ```
 
-## Usage via Chrome Web Store
+## Using via Chrome Web Store
 
 Chrome Web Store is reviewing it. As soon as it gets approved by them, you will be able to install it like any other Chrome extension through a Chrome Web Store link.
 
-## Usage via Unpacked Chrome Extension (development)
+## Using as Unpacked Chrome Extension (development)
 
 1. Clone this project to your local dev environment.
 
