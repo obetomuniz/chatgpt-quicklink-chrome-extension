@@ -28,8 +28,10 @@ Chrome Web Store is reviewing it. As soon as it gets approved by them, you will 
 
 5. After those steps, the extension should now be installed and visible in your list of extensions. If you encounter any errors, try reloading the extension or restarting Chrome. If the errors persist, please, [file a bug](https://github.com/obetomuniz/chatgpt-quicklink-chrome-extension/issues/new?assignees=&labels=bug&template=BUG_REPORT.yml&title=%5BBug%5D%3A+) or even a Pull Request :)
 
-## How to contribute
+# How to contribute
 
 We know that sometimes, the excitement to contribute is uncontrolled, but please, before any contribution, check the [docs/CONTRIBUTING.md](https://github.com/obetomuniz/chatgpt-quicklink-chrome-extension/blob/main/docs/CONTRIBUTING.md) file for more orientation.
 
-ChatGPT Quicklink Chrome Extension © 2023.
+<br /><br />
+
+_ChatGPT Quicklink Chrome Extension © 2023_
