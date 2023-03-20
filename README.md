@@ -2,7 +2,7 @@
 
 A Chrome extension to enable quicklink for ChatGPT on Google Chrome.
 
-<img src="https://user-images.githubusercontent.com/1680157/226208463-e66801e7-6bf0-4614-b54a-4b377671132b.gif" width="52%" />
+<img src="https://user-images.githubusercontent.com/1680157/226208463-e66801e7-6bf0-4614-b54a-4b377671132b.gif" width="75%" />
 
 ## Extension Concept
 
