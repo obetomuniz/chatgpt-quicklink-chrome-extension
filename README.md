@@ -32,6 +32,6 @@ Chrome Web Store is reviewing it. As soon as it gets approved by them, you will 
 
 We know that sometimes, the excitement to contribute is uncontrolled, but please, before any contribution, check the [docs/CONTRIBUTING.md](https://github.com/obetomuniz/chatgpt-quicklink-chrome-extension/blob/main/docs/CONTRIBUTING.md) file for more orientation.
 
-<br /><br />
+<br />
 
 _ChatGPT Quicklink Chrome Extension © 2023_
