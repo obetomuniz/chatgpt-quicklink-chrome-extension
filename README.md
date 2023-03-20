@@ -26,7 +26,7 @@ Chrome Web Store is reviewing it. As soon as it gets approved by them, you will 
 
 4. In the same page, click on the "Load unpacked" button in the top-left corner, and select the folder where you cloned the extension in the step number #1
 
-5. After those steps, the extension should now be installed and visible in your list of extensions. [Give it a try](https://chat.openai.com/chat?q=what%27s%20a%20quicklink%3F).
+5. After those steps, the extension should now be installed and visible in your list of extensions. [Give it a try](https://chat.openai.com/chat?q=what%20are%20quicklinks%3F).
 
 ## Contributing
 
