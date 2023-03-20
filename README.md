@@ -6,7 +6,7 @@ Load ChatGPT from anywhere to Chrome.
 
 ## Concept
 
-This Chrome extension concept is pretty simple: Unleash Chrome users to launch and start chat sessions on ChatGPT by OpenAI website from anywhere throught a NOT SUPPORTED BY DEFAULT query parameter `q` that automagically fill the ChatGPT input field and start a chat session for you.
+This Chrome extension concept is pretty simple: Unleash Chrome users to launch and start chat sessions on ChatGPT by OpenAI web application from anywhere throught a NOT SUPPORTED BY DEFAULT query parameter `q` that automagically fill the ChatGPT input field and trigger the chat session for you.
 
 ```
 https://chat.openai.com/chat?q={Query}
