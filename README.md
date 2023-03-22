@@ -14,7 +14,7 @@ https://chat.openai.com/chat?q={Query}
 
 ## Using via Chrome Web Store
 
-Install this [Chat GPT Quicklink Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-quicklink/ldoekcaiogjggdjmdlohcbennkkiindd?hl=pt-BR&authuser=0) using **Chrome Web Store** like any other.
+Install **[Chat GPT Quicklink Chrome Extension](https://chrome.google.com/webstore/detail/chatgpt-quicklink/ldoekcaiogjggdjmdlohcbennkkiindd?hl=pt-BR&authuser=0)** using **Chrome Web Store** like any other.
 
 ## Using as Unpacked Chrome Extension (development)
 
